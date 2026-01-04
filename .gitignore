@@ -2,7 +2,7 @@
 
 ##### Folders #####
 build/
-dist/
+#dist/
 node_modules/
 vendor/
 var/
