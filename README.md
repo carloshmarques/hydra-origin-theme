@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Change your logo -->
   <a href="https://github.com/carloshmarques/hydra-origin-theme">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/hydra-origin-theme's logo">
+    <img width="100%" height="350px" src="https://imgur.com/9UnuHxT.png" alt="@carloshmarques/hydra-origin-theme's logo">
   </a>
   <br>
   <a href="https://github.com/carloshmarques/hydra-origin-theme/issues">
