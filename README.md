@@ -58,7 +58,7 @@
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/hydra origin-theme">
-  <img alt="@carloshmarques/hydra origin-theme's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+  <img alt="@carloshmarques/hydra origin-theme's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="18%" />
 </a>
 
 
@@ -67,7 +67,8 @@ We are currently looking for new donators to help and maintain this project! ❤
 By donating, you will help the development of this project, and *you will be featured in this hydra-origin-theme's README.md*, so everyone can see your kindness and visit your content ⭐.
 
 <a href="https://github.com/sponsors/carloshmarques"> <!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM -->
-  <img src="https://img.shields.io/badge/Sponsor-carloshmarques/hydra origin-theme-blue?logo=github-sponsors&style=for-the-badge&color=red">
+<a href="https://github.com/sponsors/carloshmarques"><!-- MODIFY THIS LINK TO YOUR MAIN DONATING SITE IF YOU ARE NOT IN THE GITHUB SPONSORS PROGRAM --><img alt= "logo" src="https://img.shields.io/badge/Sponsor-carloshmarques/carloshmarques-blue?logo=github-sponsors&style=for-the-badge&color=red"></a><br><br>
+
 </a>
 
 <!-- LINK TO YOUR DONATING PAGES HERE -->
